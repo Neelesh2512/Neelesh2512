@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" width="380" height="350" src="https://i.imgflip.com/4e028q.png"  >
 
-- 🔭 I’m currently working on some projects
-- 🌱 I’m currently learning javascript
+- 🔭 I’m currently working as a Data Engineer intern 
+- 🌱 I’m currently learning DevOps, Backend
 - 👯 I’m looking to collaborate anytime
-- 💬 Ask me anything,it will be my pleasure to help you.
+- 💬 Ask me anything, it will be my pleasure to help you.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm still confused which one i like the most. Coding or Eating!! xD
+- ⚡ Fun fact: I'm still confused about which one I like the most. Coding or Eating!! xD
