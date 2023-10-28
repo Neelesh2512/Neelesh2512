@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" width="380" height="350" src="https://i.imgflip.com/4e028q.png"  >
 
-- 🔭 I’m currently working as a Data Engineer intern 
+- 🔭 I’m currently working as a Data Engineer
 - 🌱 I’m currently learning DevOps, Backend
 - 👯 I’m looking to collaborate anytime
 - 💬 Ask me anything, it will be my pleasure to help you.
